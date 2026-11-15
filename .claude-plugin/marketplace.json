@@ -1,0 +1,6 @@
+{
+  "name": "claude-git-graph",
+  "owner": { "name": "Terry Henrard" },
+  "description": "Le graphe de l'historique git dans un panneau de Claude Code",
+  "plugins": [{ "name": "git-graph", "source": "./" }]
+}

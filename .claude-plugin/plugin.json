@@ -1,0 +1,9 @@
+{
+  "name": "git-graph",
+  "version": "0.1.0",
+  "description": "Panneau qui dessine le graphe de l'historique git du dépôt de la session",
+  "author": { "name": "Terry Henrard" },
+  "license": "MIT",
+  "repository": "https://github.com/TerryHenrard/claude-git-graph",
+  "types": "./types/index.d.ts"
+}
